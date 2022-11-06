@@ -7,8 +7,8 @@ global.thumb = 'https://telegra.ph/file/18fc8460eaa6936122f3f.jpg'
 
 owner = [
   ['6285643112659'],
-  ['62895380719008'],
-  ['62895380719008', 'AHMAD', true]
+  ['6283863808178'],
+  ['6283863808178', 'AHMAD', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 
